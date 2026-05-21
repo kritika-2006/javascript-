@@ -1,3 +1,3 @@
 # Javascript Practice
 
-# This repository contains Javascriprt practice programs.
+# This repository contains Javascriprt practice programs.🚀
